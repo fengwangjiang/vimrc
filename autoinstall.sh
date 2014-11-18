@@ -1,5 +1,6 @@
 #!/bin/sh
-INSTALL_TO=~/Projects
+#INSTALL_TO=~/Projects
+INSTALL_TO=~
 
 warn() {
     echo "$1" >&2
