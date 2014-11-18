@@ -636,7 +636,7 @@ au filetype vim set formatoptions-=o
 " }}}
 
 " Extra user or machine specific settings {{{
-source ~/.vim/user.vim
+"source ~/.vim/user.vim
 " }}}
 
 " Creating underline/overline headings for markup languages
